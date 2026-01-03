@@ -1,6 +1,6 @@
 # Takashi Kyoto
 
-**Indie Developer & Music Producer**
+**Indie Dev & Music Producer**
 
 ---
 
@@ -26,15 +26,10 @@ Lightweight, focused tools for developers and power users.
 
 ---
 
-### Music
+### Japanese Music
 
 - [YouTube](https://youtube.com/@TakashiKyoto)
 - [Spotify](https://open.spotify.com/artist/6SnAiKRLYkAC4Z2iWKpuQq)
 
 ---
 
-### Current Focus
-
-- Ninja Suite tools (shipping regularly)
-- Web apps
-- Music production
